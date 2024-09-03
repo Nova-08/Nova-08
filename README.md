@@ -4,12 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nova-08&label=Profile%20views&color=0e75b6&style=flat" alt="nova-08" /> </p>
 
+<h3>About Me</h3>
+<p align="left">I am passionate about leveraging Artificial Intelligence and Machine Learning to solve real-world problems. My expertise lies in Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Computer Vision. I have hands-on experience in developing and deploying models for predictive analytics, image and speech recognition, and sentiment analysis. My journey in AI & ML is fueled by a relentless pursuit of knowledge and a drive to create impactful solutions.</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/Nova-08](https://github.com/Nova-08)
 
 - 📫 How to reach me **prathamkaushal08@gmail.com**
 
-- ⚡ Fun fact **I am Learner.**
-
+- ⚡ Fun fact **I am a lifelong learner always exploring new technologies.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham_kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham_kaushal" height="30" width="40" /></a>
