@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nova-08&label=Profile%20views&color=0e75b6&style=flat" alt="nova-08" /> </p> 
 <img align="right" alt="machine" width="450" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 
-
 <h3>About Me</h3>
 <p align="left">I am passionate about leveraging Artificial Intelligence and Machine Learning to solve real-world problems. My expertise lies in Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Computer Vision. I have hands-on experience in developing and deploying models for predictive analytics, image and speech recognition, and sentiment analysis. My journey in AI & ML is fueled by a relentless pursuit of knowledge and a drive to create impactful solutions.</p>
 
@@ -17,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham_kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham_kaushal" height="30" width="40" /></a>
-<a href="https://kaggle.com/pratham kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratham kaushal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratham kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham kaushal" height="30" width="40" /></a>
+<a href="https://kaggle.com/prathamkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathamkaushal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prathamkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamkaushal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
