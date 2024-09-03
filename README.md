@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratham Kaushal</h1>
 <h3 align="center">AI & ML enthusiast driven by curiosity, turning data into decisions and ideas into innovations.</h3> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nova-08&label=Profile%20views&color=0e75b6&style=flat" alt="nova-08" /> </p> 
 <img align="right" alt="machine" width="450" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nova-08&label=Profile%20views&color=0e75b6&style=flat" alt="nova-08" /> </p>
 
 <h3>About Me</h3>
 <p align="left">I am passionate about leveraging Artificial Intelligence and Machine Learning to solve real-world problems. My expertise lies in Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Computer Vision. I have hands-on experience in developing and deploying models for predictive analytics, image and speech recognition, and sentiment analysis. My journey in AI & ML is fueled by a relentless pursuit of knowledge and a drive to create impactful solutions.</p>
