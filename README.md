@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=nova-08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" width="400" alt="Machine Learning Gif"> 
+<img align="right" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" width="400" alt="Machine Learning Gif" style="margin-left: 20px;"> 
 
 ### 👨‍💻 About Me
 <p align="left"> -  Passionate about harnessing the power of AI & ML to tackle real-world problems.<br> - Specialize in Machine Learning, Deep Learning, NLP, and Computer Vision.<br> -  Proven track record in building models for predictive analytics, image & speech recognition, and sentiment analysis.<br> - Continuously driven by a thirst for knowledge and a commitment to crafting impactful solutions. </p>
